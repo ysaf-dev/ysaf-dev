@@ -2,10 +2,7 @@
   <img src="https://raw.githubusercontent.com/ysaf-dev/ysaf-dev/main/banner.jpg" alt="banner" style="width:100%; border-radius:10px;" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=440&lines=Hi!+I'm+Ysa;Computer+Engineering+Student+from+Manila;Dev+in+Training+🌸;React%2C+Tailwind%2C+TypeScript+Lover" alt="Typing SVG" />
-</p>
-
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&color=FF88C2&center=true&vCenter=true&width=600&lines=Hi!+I'm+Ysa;Computer+Engineering+Student+from+Manila;Dev+in+Training+🌸)
 
 ---
 
